@@ -18,9 +18,9 @@ Skills
 
 Work Experience 
 ---------------
-[**Huawei Technology**<br>](https://www.huawei.com/us/)
+<img src="./Images/BMW-logo.png" width="10">[**Huawei Technology**<br>](https://www.huawei.com/us/)
 [**United Technologies Research Center**<br>](http://www.utrc.utc.com/)
 [**BMW Research Center**<br>](https://www.bmw.com/en/index.html)
 **China Construction Bank**<br> 
 **CISCO**<br> 
-<img src="./Images/BMW-logo.png" width="100">
+

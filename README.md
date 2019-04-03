@@ -18,7 +18,7 @@ Skills
 
 Work Experience 
 ---------------
-[**United Technologies Research Center** ](http://www.utrc.utc.com/)
+[**United Technologies Research Center**<br>](http://www.utrc.utc.com/)
 [**BMW Research Center**](https://www.bmw.com/en/index.html)
 **China Construction Bank** 
 **CISCO** 

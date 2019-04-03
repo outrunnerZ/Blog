@@ -27,15 +27,12 @@ Project Experience
 -------------------
 
 
-
-Published Paper
--------------------
-Guangtang Zhu, Hanfang Yang, Guichun Zhou and Xiangdong Zhou. An Informative Logistic Regression for Cross-domain Image Classification. International Conference on Computer Vision Systems.2016.
-
-
 Published Paper
 -------------------
 ```
 Guangtang Zhu, Hanfang Yang, Guichun Zhou and Xiangdong Zhou. An Informative Logistic Regression for Cross-domain Image Classification. International Conference on Computer Vision Systems.2016.
 ```
+
+Pattern Application
+-------------------
 

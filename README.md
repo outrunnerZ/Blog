@@ -6,19 +6,19 @@ I'm a ape, loving coding & loving life.
 Skills
 ---------------
 ```
-📡 AR/VR (#) <br />
-🏷️ 3D Model Creation and Reconstruction<br />
-🚀 Machine Learning and Deep Learning<br />
-📜 Algorithms<br />
-🔥  Building Information Modeling<br />
-🔗 Software Architecture<br />
-⏩ Computer Vision<br />
+📡 AR/VR 
+🏷️ 3D Model Creation and Reconstruction
+🚀 Machine Learning and Deep Learning
+📜 Algorithms
+🔥  Building Information Modeling
+🔗 Software Architecture
+⏩ Computer Vision
 ⛑  Robotics
 ```
 
-Skills
+Work Experience 
 ---------------
-**United Technologies Research Center** (http://www.utrc.utc.com/)
-**BMW Research Center** (https://www.bmw.com/en/index.html)
-**China Construction Bank** (#)
-**CISCO** (#)
+[**United Technologies Research Center** ](http://www.utrc.utc.com/)
+[**BMW Research Center**](https://www.bmw.com/en/index.html)
+**China Construction Bank** 
+**CISCO** 

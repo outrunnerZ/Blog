@@ -1,6 +1,6 @@
 Running Ape
 =====================
-I'm a ape, loving coding & loving life.
+loving coding & loving life.
 
 
 Skills
@@ -19,6 +19,6 @@ Skills
 Work Experience 
 ---------------
 [**United Technologies Research Center**<br>](http://www.utrc.utc.com/)
-[**BMW Research Center**](https://www.bmw.com/en/index.html)
-**China Construction Bank** 
-**CISCO** 
+[**BMW Research Center**<br>](https://www.bmw.com/en/index.html)
+**China Construction Bank**<br> 
+**CISCO**<br> 

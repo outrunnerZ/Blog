@@ -21,6 +21,5 @@ Work Experience
 📱  [**Huawei Technology**<br>](https://www.huawei.com/us/)
 🚀 [**United Technologies Research Center**<br>](http://www.utrc.utc.com/)
 🚗 [**BMW Research Center**<br>](https://www.bmw.com/en/index.html)
-💰  **China Construction Bank**<br> 
-📡  **CISCO**<br> 
+📡  [**CISCO**]<br> 
 

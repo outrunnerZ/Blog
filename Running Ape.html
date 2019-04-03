@@ -38,11 +38,11 @@
 </code></pre></div></div>
 
 <h2 id="work-experience">Work Experience</h2>
-<p><img src="./Images/BMW-logo.png" width="20" /><a href="https://www.huawei.com/us/"><strong>Huawei Technology</strong><br /></a>
-<img src="./Images/BMW-logo.png" width="20" /> <a href="http://www.utrc.utc.com/"><strong>United Technologies Research Center</strong><br /></a>
-<img src="./Images/BMW-logo.png" width="20" /><a href="https://www.bmw.com/en/index.html"><strong>BMW Research Center</strong><br /></a>
-<img src="./Images/BMW-logo.png" width="20" /><strong>China Construction Bank</strong><br /> 
-<img src="./Images/BMW-logo.png" width="20" /><strong>CISCO</strong><br /></p>
+<p><a href="https://www.huawei.com/us/"><strong>Huawei Technology</strong><br /></a>
+ <a href="http://www.utrc.utc.com/"><strong>United Technologies Research Center</strong><br /></a>
+<a href="https://www.bmw.com/en/index.html"><strong>BMW Research Center</strong><br /></a>
+<strong>China Construction Bank</strong><br /> 
+<strong>CISCO</strong><br /></p>
 
 
 
@@ -54,6 +54,58 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    
+<script language=JavaScript>
+<!--
+var caution = false
+function setCookie(name, value, expires, path, domain, secure){
+var curCookie = name + "=" + escape(value) +
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "")
+if (!caution || (name + "=" + escape(value)).length<= 4000)
+document.cookie = curCookie
+else
+if (confirm("Cookie exceeds 4KB and will be cut!"))
+document.cookie = curCookie
+}
+function getCookie(name) {
+var prefix = name + "="
+var cookieStartIndex = document.cookie.indexOf(prefix)
+if (cookieStartIndex == -1)
+return null
+var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex+ prefix.length)
+if (cookieEndIndex == -1)
+cookieEndIndex = document.cookie.length
+return unescape(document.cookie.substring(cookieStartIndex +prefix.length, cookieEndIndex))
+}
+function deleteCookie(name, path, domain) {
+if (getCookie(name)) {
+document.cookie = name + "=" +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+"; expires=Thu, 01-Jan-70 00:00:01 GMT"
+}
+}
+function fixDate(date) {
+var base = new Date(0)
+var skew = base.getTime()
+if (skew > 0)
+date.setTime(date.getTime() - skew)
+}
+var now = new Date()
+fixDate(now)
+now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
+var visits = getCookie("counter")
+if (!visits)
+visits = 1
+else
+visits = parseInt(visits) + 1
+setCookie("counter", visits, now)
+document.write("您是第" + visits + "位访问本专题的！")
+// -->
+</script>
+
+     
   </body>
 </html>
